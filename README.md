@@ -1,2 +1,2 @@
 # Heart Disease Prediction
-Heart Disease Prediction
+It is estimated that around 70 millions people in India suffer from heart diseases but still this number is said to be under recorded as it may actually turn out to be hundred of millions due to lack to adequate surveillance systems available so it becomes very much essential to detect any kind heart disease or potential patient at early stage. With this dataset we try to make prediction of heart disease using various algorithm and considering various parameters like Age, Sex, Blood pressure levels, Cholestoral, blood sugar, electrocardiographic results, heart rate and many others. 
