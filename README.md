@@ -1,2 +1,2 @@
-# Diabetes_Prediction
-Diabetes Prediction
+# Heart Disease Prediction
+Heart Disease Prediction
